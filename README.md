@@ -1,5 +1,5 @@
 # batPed
-Repor for constructing the bat family pedigree from RNAseq data
+Repo for constructing the bat family pedigree from RNAseq data
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868348/
 
 https://primus.gs.washington.edu/primusweb/res/documentation.html
