@@ -9,3 +9,7 @@ https://www.cog-genomics.org/plink/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6573782/
 
 https://github.com/vavouri-lab/RNA-kinship/blob/master/kinship_detection_pipeline.sh
+
+
+X
+
