@@ -1,0 +1,40 @@
+
+R version 4.3.0 (2023-04-21) -- "Already Tomorrow"
+Copyright (C) 2023 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R es un software libre y viene sin GARANTIA ALGUNA.
+Usted puede redistribuirlo bajo ciertas circunstancias.
+Escriba 'license()' o 'licence()' para detalles de distribucion.
+
+R es un proyecto colaborativo con muchos contribuyentes.
+Escriba 'contributors()' para obtener más información y
+'citation()' para saber cómo citar R o paquetes de R en publicaciones.
+
+Escriba 'demo()' para demostraciones, 'help()' para el sistema on-line de ayuda,
+o 'help.start()' para abrir el sistema de ayuda HTML con su navegador.
+Escriba 'q()' para salir de R.
+
+[Previously saved workspace restored]
+
+> ## plink_uniqfam0plot.R for KING --related, by Wei-Min Chen and Zhennan Zhu
+> rm(list=ls(all=TRUE))
+> library(igraph)
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+> data <- read.table(file="plink.kin0", header=TRUE, stringsAsFactors=FALSE)[,c("ID1", "ID2", "InfType")]
+Error in file(file, "rt") : no se puede abrir la conexión
+Calls: read.table -> file
+Además: Warning message:
+In file(file, "rt") :
+  no fue posible abrir el archivo 'plink.kin0': No existe el archivo o el directorio
+Ejecución interrumpida

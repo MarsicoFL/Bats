@@ -1,0 +1,53 @@
+
+R version 4.3.0 (2023-04-21) -- "Already Tomorrow"
+Copyright (C) 2023 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R es un software libre y viene sin GARANTIA ALGUNA.
+Usted puede redistribuirlo bajo ciertas circunstancias.
+Escriba 'license()' o 'licence()' para detalles de distribucion.
+
+R es un proyecto colaborativo con muchos contribuyentes.
+Escriba 'contributors()' para obtener más información y
+'citation()' para saber cómo citar R o paquetes de R en publicaciones.
+
+Escriba 'demo()' para demostraciones, 'help()' para el sistema on-line de ayuda,
+o 'help.start()' para abrir el sistema de ayuda HTML con su navegador.
+Escriba 'q()' para salir de R.
+
+[Previously saved workspace restored]
+
+> ## plink_MIerrorplot.R for KING MI error plot, by Wei-Min Chen and Zhennan Zhu
+> rm(list=ls(all=TRUE))
+> library(kinship2)
+Loading required package: Matrix
+Loading required package: quadprog
+> library(igraph)
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+> ped <- read.table(file="plinksplitped.txt", stringsAsFactors=FALSE)[,c(1,2,5,6,7,8,9)]
+> ped$V8[ped$V8==-9 | ped$V8==0 | ped$V8==1] <- 0
+> ped$V8[ped$V8==2] <- 1
+> colnames(ped) <- c("FID", "ID", "FA", "MO", "Sex", "Affected", "Status")
+> data <- read.table("plink.kin",header = TRUE, stringsAsFactors = FALSE)
+Warning message:
+In scan(file = file, what = what, sep = sep, quote = quote, dec = dec,  :
+  número de items leídos no es múltiplo del número de columnas
+> mi.err <- data[data[, "Error"]==1, "FID" ]
+> Inf.color <- c("purple", "red", "green", "blue", "yellow", NA)
+> Inf.type <- c("Dup/MZ", "PO", "FS", "2nd", "3rd")
+> data.fam <- merge(data, ped, by.x = c("FID", "ID1"), by.y = c("FID", "ID"))
+> data.all <- merge(data.fam, ped, by.x = c("FID", "ID2"), by.y = c("FID", "ID"))[, c("FID", "ID1", "ID2", "Sex.x", "Sex.y", "InfType", "Error")]
+Error in `[.data.frame`(merge(data.fam, ped, by.x = c("FID", "ID2"), by.y = c("FID",  : 
+  undefined columns selected
+Calls: [ -> [.data.frame
+Ejecución interrumpida
