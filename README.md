@@ -14,7 +14,7 @@ This repository contains the data and code for the BatPed project, which focuses
 
 **plink2.kin0**: This file contains the output from PLINK's kinship coefficient estimation. It includes the estimated kinship coefficients for each pair of individuals in the study.
 
-**BatCoding_DrafMetadata_RWO_RWW_03May2023**: This file contains coding information related to the bat samples used in the project. 
+**BatCoding_DrafMetadata_RWO_RWW_03May2023**: This file contains both coding types (i.e A103 that corresponds to RNA-seq data, and GSO-120-q that correspond to a specific bat). It is just for compatibility purposes.
 
 
 
