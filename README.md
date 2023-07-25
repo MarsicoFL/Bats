@@ -2,7 +2,7 @@
 This repository contains the data and code for the BatPed project, which focuses on estimating kinship coefficients in bat populations using RNA-seq data.
 
 # Repository Contents
-BatKinship.ipynb: This Jupyter notebook contains the main analysis for the project. It includes the code for estimating kinship coefficients and any associated data exploration and visualization.
+**BatKinship.ipynb**: This Jupyter notebook contains the main analysis for the project. It includes the code for estimating kinship coefficients and any associated data exploration and visualization.
 
 **BatMetadata.csv**: This CSV file contains metadata for the bat samples used in the project. This include information such as: sample ID, sex, Age and any colony of each bat..
 
