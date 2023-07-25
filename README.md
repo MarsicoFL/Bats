@@ -21,6 +21,9 @@ BatKinship.ipynb: This Jupyter notebook contains the main analysis for the proje
 
 # References
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868348/
+
 https://primus.gs.washington.edu/primusweb/res/documentation.html
+
 https://www.cog-genomics.org/plink/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6573782/
