@@ -16,8 +16,9 @@ This repository contains the data and code for the BatPed project, which focuses
 
 **BatCoding_DrafMetadata_RWO_RWW_03May2023**: This file contains both coding types (i.e A103 that corresponds to RNA-seq data, and GSO-120-q that correspond to a specific bat). It is just for compatibility purposes.
 
+**sec_PCA** files: eigenvec correspond to the values for each component for each individual. Eigenvalues correspond to the values for each component that divided over the sum of them is the percentage of variance explained.
 
-
+**population_assignment**: the colony of each individual.
 
 # References
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868348/
