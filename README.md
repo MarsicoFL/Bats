@@ -20,6 +20,11 @@ This repository contains the data and code for the BatPed project, which focuses
 
 **population_assignment**: the colony of each individual.
 
+**plink.fst**: fst values for each marker.
+
+**ibs_unrolled**: identical by descendant values for each pais (n*(1-n))/2.
+
+
 # References
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868348/
 
