@@ -1,11 +1,13 @@
-colony started 1964 honeymoon professor  1988 re-started 
-10-20 males 10-20 females founding 
-split in two locations  probably form the same founders relatively early split 
-new animals introduced at least once in late 90 early 2000
-there is a species that we are not intersted in that was not in the colony they might not be interbreeding 
-5-10 years ago all animals were sampled  some were alive when colony was terminated some will be unique samples 
-few unbanded animals 
-1 sample cell lines ultralong sequencing  / 6-7 tissues pacbio isoseq Michael hiller 
-10-20 animoals for pacbiorevio 
-Note: Sampling for diversity maximization -> Through pedigree or IBD distribution
-https://bat1k.com/
+# Context
+The colony was first established in 1964, intriguingly tied to a honeymoon event. However, it saw a revival under the guidance of a professor in 1988. At its inception, the colony boasted between 10 and 20 males and an equivalent number of females. Quite early on, this colony bifurcated into two separate locations. It's surmised that both sites likely had the same original founders.
+
+In the late 1990s and early 2000s, new animals were introduced to the colony at least on one occasion. It's pertinent to note that there exists a species within the colony that doesn't pique our interest and was not part of the original group. The likelihood of interbreeding amongst these animals seems scant.
+
+Roughly 5-10 years ago, all animals within the colony were subjected to sampling. Some of these creatures were still breathing when the colony was eventually disbanded, implying that certain samples are distinctly unique. Moreover, there were a few animals that lacked identifying bands.
+
+# Sequencing
+Regarding the research, a single cell line sample should be taken for ultra-long sequencing. Additionally, 6-7 tissues should be utilised for PacBio IsoSeq (talk with Michael Hiller). Plans are afoot to use between 10 and 20 animals for the PacBioReVIO.
+
+A salient point to bear in mind is that the sampling endeavours should be designed to maximise genetic diversity. This is achieved via either pedigree distribution or IBD distribution.
+
+We should investigate if someone is doing the pangenome, and if it is no, push it: https://bat1k.com/.
