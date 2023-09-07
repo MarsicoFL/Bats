@@ -6,7 +6,7 @@ This repository contains the data and code for the BatPed project, which focuses
 
 **BatKinship.ipynb**: This Jupyter notebook contains the main analysis for the project. It includes the code for estimating kinship coefficients and any associated data exploration and visualization.
 
-**BatMetadata.csv**: This CSV file contains metadata for the bat samples used in the project. This include information such as: sample ID, sex, Age and any colony of each bat..
+**BatMetadata.csv**: This CSV file contains metadata for the bat samples used in the project. This include information such as: sample ID, sex, Age and any colony of each bat.
 
 **FromGeneNetworkToPlink.R**: This R script is used to convert gene network data into a format that can be used with PLINK.
 
