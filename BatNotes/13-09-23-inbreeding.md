@@ -10,3 +10,12 @@ Lets do the experiment, based on this methodology: https://github.com/MarsicoFL/
 
 We analyze the following example:
 ![Captura desde 2023-09-14 09-41-06](https://github.com/MarsicoFL/batPed/assets/55600771/d68ad83f-e5cc-4156-8cc1-da7dc3e25e47)
+
+
+After simulations of possible genomes (2000) for individuals 26 and 38. We obtain:
+
+![Captura desde 2023-09-14 09-42-24](https://github.com/MarsicoFL/batPed/assets/55600771/0cd9d6f3-139b-42c0-86a4-9fed9b171cb8)
+
+
+How much they share? Most of the cases share zero, or just a few centimorgans of genome.
+
