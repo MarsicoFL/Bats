@@ -19,3 +19,7 @@ After simulations of possible genomes (2000) for individuals 26 and 38. We obtai
 
 How much they share? Most of the cases share zero, or just a few centimorgans of genome.
 
+## But, if we have inbreeding?
+Considering the information that we have at the moments, most of bats came from a common ancestor beyond 7 generations. So, at least the first generations should have been inbreeding. Here a conceptual case is presented.
+
+
