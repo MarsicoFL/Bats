@@ -30,7 +30,7 @@ When we analyze the individuals at the bottom, we find the following shared port
 
 For comparison, consider the following pedigree, where two half-siblings are presented:
 
-<img src="https://github.com/MarsicoFL/batPed/assets/55600771/2a104950-65e8-4f76-bd78-00a649afce26" width="100%" />
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/2a104950-65e8-4f76-bd78-00a649afce26" width="50%" />
 
 After seven generations, two individuals with strong inbreeding could share a similar amount of DNA as half-siblings.
 
