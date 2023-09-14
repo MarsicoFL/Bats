@@ -2,7 +2,7 @@
 
 We are investigating a population of 105 bats divided into two distinct colonies. Interestingly, these groups share a common ancestor dating back at least eight generations. Each colony was initially founded with a set of five males and five females, who were either siblings or cousins. Through computational simulations, we analyze the possible kinship relationships among the individuals within these bat colonies.
 
-<img src="https://github.com/MarsicoFL/batPed/assets/55600771/05c481d0-b589-4e05-b001-a076ff296100" width="50%" />
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/05c481d0-b589-4e05-b001-a076ff296100" width="30%" />
 
 ## Can Two Individuals Share DNA from a Common Ancestor After Seven or More Generations?
 
@@ -10,11 +10,11 @@ Let's conduct an experiment based on this methodology: [ibdsim2](https://github.
 
 We analyze the following example:
 
-<img src="https://github.com/MarsicoFL/batPed/assets/55600771/d68ad83f-e5cc-4156-8cc1-da7dc3e25e47" width="50%" />
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/d68ad83f-e5cc-4156-8cc1-da7dc3e25e47" width="30%" />
 
 After running simulations of possible genomes (2000 in total) for individuals 26 and 38, we obtain:
 
-<img src="https://github.com/MarsicoFL/batPed/assets/55600771/0cd9d6f3-139b-42c0-86a4-9fed9b171cb8" width="50%" />
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/0cd9d6f3-139b-42c0-86a4-9fed9b171cb8" width="30%" />
 
 How much DNA do they share? In most cases, they share zero or just a few centimorgans of their genomes.
 
