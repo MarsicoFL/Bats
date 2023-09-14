@@ -5,7 +5,8 @@ Through computational simulations,  we analyze the possible kinship relationship
 
 ![Captura desde 2023-09-14 09-14-06](https://github.com/MarsicoFL/batPed/assets/55600771/05c481d0-b589-4e05-b001-a076ff296100)
 
-## Could two individuals share DNA for a common ancestor after 7 or more generations?
-file:///home/franco/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-09-14%2009-41-06.png
+## Can two individuals share DNA for a common ancestor after 7 or more generations?
+Lets do the experiment, based on this methodology: https://github.com/MarsicoFL/ibdsim2
 
-
+We analyze the following example:
+![Captura desde 2023-09-14 09-41-06](https://github.com/MarsicoFL/batPed/assets/55600771/d68ad83f-e5cc-4156-8cc1-da7dc3e25e47)
