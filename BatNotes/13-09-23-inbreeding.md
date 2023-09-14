@@ -35,3 +35,5 @@ For comparison, consider the following pedigree, where two half-siblings are pre
 After seven generations, two individuals with strong inbreeding could share a similar amount of DNA as half-siblings.
 
 <img src="https://github.com/MarsicoFL/batPed/assets/55600771/e73849bd-4c2b-4450-a84a-d5585a31185c" width="70%" />
+
+Thore's work: https://www.fsigeneticssup.com/article/S1875-1768(19)30188-X/pdf
