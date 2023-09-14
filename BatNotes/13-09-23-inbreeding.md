@@ -1,38 +1,37 @@
-## Relatedness beyond generations
-We are investigating a population of 105 bats divided into two distinct colonies. Interestingly, these groups share a common ancestor dating back at least 8 generations. 
-Each of the colonies was initially founded with a set of 5 males and 5 females, who were either siblings or cousins. 
-Through computational simulations,  we analyze the possible kinship relationships among the individuals within these bat colonies.
+## Relatedness Beyond Generations
 
-![Captura desde 2023-09-14 09-14-06](https://github.com/MarsicoFL/batPed/assets/55600771/05c481d0-b589-4e05-b001-a076ff296100)
+We are investigating a population of 105 bats divided into two distinct colonies. Interestingly, these groups share a common ancestor dating back at least eight generations. Each colony was initially founded with a set of five males and five females, who were either siblings or cousins. Through computational simulations, we analyze the possible kinship relationships among the individuals within these bat colonies.
 
-## Can two individuals share DNA for a common ancestor after 7 or more generations?
-Lets do the experiment, based on this methodology: https://github.com/MarsicoFL/ibdsim2, following the model presented by: https://www.science.org/doi/10.1126/science.aau1043
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/05c481d0-b589-4e05-b001-a076ff296100" width="50%" />
+
+## Can Two Individuals Share DNA from a Common Ancestor After Seven or More Generations?
+
+Let's conduct an experiment based on this methodology: [ibdsim2](https://github.com/MarsicoFL/ibdsim2), following the model presented by [Science](https://www.science.org/doi/10.1126/science.aau1043).
 
 We analyze the following example:
-![Captura desde 2023-09-14 09-41-06](https://github.com/MarsicoFL/batPed/assets/55600771/d68ad83f-e5cc-4156-8cc1-da7dc3e25e47)
 
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/d68ad83f-e5cc-4156-8cc1-da7dc3e25e47" width="50%" />
 
-After simulations of possible genomes (2000) for individuals 26 and 38. We obtain:
+After running simulations of possible genomes (2000 in total) for individuals 26 and 38, we obtain:
 
-![Captura desde 2023-09-14 09-42-24](https://github.com/MarsicoFL/batPed/assets/55600771/0cd9d6f3-139b-42c0-86a4-9fed9b171cb8)
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/0cd9d6f3-139b-42c0-86a4-9fed9b171cb8" width="50%" />
 
+How much DNA do they share? In most cases, they share zero or just a few centimorgans of their genomes.
 
-How much they share? Most of the cases share zero, or just a few centimorgans of genome.
+## What About Inbreeding?
 
-## But, if we have inbreeding?
-Considering the information that we have at the moments, most of bats came from a common ancestor beyond 7 generations. So, at least the first generations should have been inbreeding. Here a conceptual case is presented.
-Consider the following pedigree with inbreeding:
+Given the information we have at the moment, most bats come from a common ancestor beyond seven generations. Therefore, at least the first generations likely experienced inbreeding. A conceptual case is presented below. Consider the following pedigree with inbreeding:
 
-![Captura desde 2023-09-14 09-47-12](https://github.com/MarsicoFL/batPed/assets/55600771/b796be8a-37af-4fe2-aafc-afa33c7837c1)
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/b796be8a-37af-4fe2-aafc-afa33c7837c1" width="50%" />
 
-When que analyze the individuals at the bottom, we obtain the following shared portion of the genome (considering 2000 simulations).
+When we analyze the individuals at the bottom, we find the following shared portions of the genome (based on 2000 simulations):
 
-![Captura desde 2023-09-14 09-47-49](https://github.com/MarsicoFL/batPed/assets/55600771/1fbc43da-9c06-4e8e-a8ee-8f77a491d30f)
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/1fbc43da-9c06-4e8e-a8ee-8f77a491d30f" width="50%" />
 
-Just to compare, consider the following pedigree, where two half-sibling are presented.
+For comparison, consider the following pedigree, where two half-siblings are presented:
 
-![Captura desde 2023-09-14 09-48-23](https://github.com/MarsicoFL/batPed/assets/55600771/2a104950-65e8-4f76-bd78-00a649afce26)
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/2a104950-65e8-4f76-bd78-00a649afce26" width="50%" />
 
-After 7 generations, two individuals with strong inbreeding could share similar DNA than half siblings.
+After seven generations, two individuals with strong inbreeding could share a similar amount of DNA as half-siblings.
 
-![Captura desde 2023-09-14 09-48-14](https://github.com/MarsicoFL/batPed/assets/55600771/e73849bd-4c2b-4450-a84a-d5585a31185c)
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/e73849bd-4c2b-4450-a84a-d5585a31185c" width="50%" />
