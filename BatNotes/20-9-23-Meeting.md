@@ -1,5 +1,9 @@
 ## Pop gen analyses
 
+Just remembering, we obtained more relatedness within colonies than between them:
+![Captura desde 2023-09-20 08-54-09](https://github.com/MarsicoFL/batPed/assets/55600771/5b775a93-6199-4537-ba1c-b029db3fe64d)
+
+
 Firstly, considering the 105 bats, analyzing the RNA-seq data (curated variants) we perform PCA analysis.
 The following scree plot is obtained.
 
