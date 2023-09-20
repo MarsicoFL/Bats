@@ -1,4 +1,4 @@
-## Pop gen analyses
+## Pop gen analyses (Previously done)
 
 Just remembering, we obtained more relatedness within colonies than between them:
 ![Captura desde 2023-09-20 08-54-09](https://github.com/MarsicoFL/batPed/assets/55600771/5b775a93-6199-4537-ba1c-b029db3fe64d)
@@ -22,3 +22,7 @@ We observe some separation between colonies, but not enough to declare a clear c
 ![Captura desde 2023-09-20 08-48-12](https://github.com/MarsicoFL/batPed/assets/55600771/3684476c-d2cc-47c9-86c2-a25d433117f5)
 
 In concordance with PCA, and with kinship results, we observe low population structure.
+
+
+## Meeting notes
+
