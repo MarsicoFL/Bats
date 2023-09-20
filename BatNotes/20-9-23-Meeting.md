@@ -27,4 +27,18 @@ In concordance with PCA, and with kinship results, we observe low population str
 
 
 ## Meeting notes
+Ask for ID of the individual we are sequencing 
+filtering criteria  for RNA seq -> Available on the dropbox 
+sex cromosomes in RNAseq -> X chromosome is present
+we shoud join the batellite meetings: https://bat1k.com/bat1k-meetings-batellites/
 
+Candidate selection:
+For selecting candidates to be genotyped: 
+
+-balancing sex 
+-maxizing genetic diversity through PCA (first five components or through multiscaling dimension algorithm)
+
+
+Then check kinship to be sure that we are not capturing any first, second or third degree relationship.
+Then check with Danny clustering to be sure that we agree.
+Probably multiple options will be possible, so some random selection could be done, or an ad hoc criteria for selecting between them.
