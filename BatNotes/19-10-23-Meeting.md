@@ -137,6 +137,6 @@ plt.grid(True)
 plt.show()
 ```
 
-![selected](https://github.com/MarsicoFL/batPed/assets/55600771/7d6671eb-4b8c-4915-9748-4dee1e5e22a7)
 
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/7d6671eb-4b8c-4915-9748-4dee1e5e22a7" width="80%">
 
