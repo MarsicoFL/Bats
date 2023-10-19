@@ -2,7 +2,7 @@ We have 1 bat under analysis, with the following algorithm we can choose the oth
  
  - Sex balance.
  - Picking from different colonies.
- - Maximizing genetic diversity.
+ - Maximizing genetic diversity through a simple hamming distance.
 
 For this, we will use metadata file, and genenetwork.csv file, with the genetic information from the bats.
 
