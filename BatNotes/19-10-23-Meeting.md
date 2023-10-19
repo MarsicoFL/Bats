@@ -1,4 +1,10 @@
-We have 1 bat under analysis, with the following algorithm we can choose the other 19 to be sequenced:
+We have 1 bat under analysis, with the following algorithm we can choose the other 19 to be sequenced. We consider:
+ 
+ - Sex balance.
+ - Picking from different colonies.
+ - Maximizing genetic diversity.
+
+For this, we will use metadata file, and genenetwork.csv file, with the genetic information from the bats.
 
 ```python 
 import numpy as np
@@ -24,3 +30,4 @@ merged_data['diversity_score'] = diversity_scores
 # Display the first few rows with the diversity scores added
 merged_data[['Animal_ID', 'Colony', 'Sex', 'diversity_score']].head()
 ```
+
