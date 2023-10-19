@@ -3,6 +3,8 @@ We have 1 bat under analysis, with the following algorithm we can choose the oth
  - Sex balance.
  - Picking from different colonies.
  - Maximizing genetic diversity through a simple hamming distance.
+ - Check that selected bats are not related.
+ - Show it in two dimensional PCA.
 
 For this, we will use metadata file, and genenetwork.csv file, with the genetic information from the bats.
 
