@@ -61,8 +61,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-![PCA](https://github.com/MarsicoFL/batPed/assets/55600771/5072c38c-96ef-4173-b36c-f606f1b6e376)
 
+<img src="https://github.com/MarsicoFL/batPed/assets/55600771/5072c38c-96ef-4173-b36c-f606f1b6e376" width="80%">
 
 ```python 
 # Número de murciélagos a seleccionar de cada categoría
