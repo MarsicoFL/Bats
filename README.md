@@ -1,6 +1,10 @@
 # Overview
 This repository contains the data and code for the BatPed project, which focuses on estimating kinship coefficients in bat populations using RNA-seq data.
 
+# Bat1K
+Password for members area: bats2021
+Link members area: https://bat1k.com/bat1k-members-area/
+
 # Repository Contents
 **BatNotes**: Notes and roadmap of the project.
 
