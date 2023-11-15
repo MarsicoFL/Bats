@@ -141,3 +141,9 @@ plt.show()
 
 <img src="https://github.com/MarsicoFL/batPed/assets/55600771/7d6671eb-4b8c-4915-9748-4dee1e5e22a7" width="80%">
 
+
+We also check it with previously performed clustering:
+
+![Captura desde 2023-11-15 07-36-50](https://github.com/MarsicoFL/batPed/assets/55600771/a24dcf70-1d71-4b86-afae-6d5d22d34fb4)
+
+
