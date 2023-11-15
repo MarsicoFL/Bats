@@ -94,10 +94,10 @@ The selection!
 |  0 | -23.9876  | -18.286   | GSO-12-p  | GC     | M   | NaN           |
 |  1 |  13.498   | -13.1921  | GSO-138-d | GC     | M   | NaN           |
 |  2 |  27.143   |  22.4251  | GSO-97-c  | GC     | M   | NaN           |
-|  3 |  37.656   |  -4.86746 | GSO-2-h   | GC     | M   | NaN           |
+|  3 |  37.656   |  -4.86746 | GSO-143-p   | GC     | *   | NaN           |
 |  4 |  52.8923  | -20.8896  | GSO-63-g  | GC     | M   | NaN           |
 |  5 |   2.14418 |   2.47417 | GSO-116-b | GC     | F   | NaN           |
-|  6 |  25.0437  |  -3.15348 | GSO-85-f  | GC     | F   | NaN           |
+|  6 |  25.0437  |  -3.15348 | GSO-111-c  | GC     | *   | NaN           |
 |  7 |  31.3515  | -39.149   | GSO-45-k  | GC     | F   | NaN           |
 |  8 |  40.4481  | -30.7723  | GSO-59-c  | GC     | F   | NaN           |
 |  9 |  43.2621  |  27.6184  | GSO-58-f  | GC     | F   | NaN           |
@@ -106,11 +106,11 @@ The selection!
 | 12 | -39.8911  |  19.5242  | GSO-90-n  | LC     | M   | 0.720548      |
 | 13 | -29.414   |  31.7277  | GSO-133-h | LC     | M   | 2.23562       |
 | 14 | -26.9571  |  -9.0733  | GSO-33-k  | LC     | M   | 5.5589        |
-| 15 | -50.4741  | -20.2984  | GSO-99-p  | LC     | F   | 3.4           |
+| 15 | -50.4741  | -20.2984  | GSO-88-c  | LC     | *   | *           |
 | 16 | -33.6347  |  10.1725  | GSO-6-d   | LC     | F   | 1.80822       |
 | 17 | -26.4434  | -48.3378  | GSO-112-n | LC     | F   | 6.83836       |
 | 18 | -13.7882  | -26.2434  | GSO-70-p  | LC     | F   | 5.27123       |
-| 19 |  -1.48976 | -27.0941  | GSO-44-g  | LC     | F   | 4.58904       |
+| 19 |  -1.48976 | -27.0941  | GSO-25-p  | LC     | *   | *       |
 
 Now we plot it:
 
@@ -144,6 +144,6 @@ plt.show()
 
 We also check it with previously performed clustering:
 
-![Captura desde 2023-11-15 07-36-50](https://github.com/MarsicoFL/batPed/assets/55600771/a24dcf70-1d71-4b86-afae-6d5d22d34fb4)
+![clustering](https://github.com/MarsicoFL/batPed/assets/55600771/497eac72-ac6f-46dd-8aa5-ce1a4133b1ec)
 
 
