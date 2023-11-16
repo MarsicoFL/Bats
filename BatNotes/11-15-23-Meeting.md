@@ -112,6 +112,8 @@ The selection!
 | 18 | -13.7882  | -26.2434  | GSO-70-p  | LC     | F   | 5.27123       |
 | 19 |  -1.48976 | -27.0941  | GSO-25-p  | LC     | *   | *       |
 
+(*) Indicate that this individuals could be changed and are released from gender balance definition.
+
 Now we plot it:
 
 ```python 
@@ -148,7 +150,7 @@ We also check it with previously performed clustering:
 
 ## Re-analyzing admixture
 
-Long time ago, we performed a pairwise kinship analysis between the bats. We detected some relatedness, but one of the unsolved things was the obtained coefficients for unrelatedness behavior. Below:
+Some time ago, we performed a pairwise kinship analysis between the bats. We detected some relatedness, but one of intriguing thinghs was the obtained coefficients for unrelatedness. Below:
 
 ![Captura desde 2023-11-15 09-04-38](https://github.com/MarsicoFL/batPed/assets/55600771/0e5e9bc2-37f8-4909-acc9-5d90d8430211)
 
