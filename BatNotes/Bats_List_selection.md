@@ -148,11 +148,3 @@ We also check it with previously performed clustering:
 
 ![clustering](https://github.com/MarsicoFL/batPed/assets/55600771/497eac72-ac6f-46dd-8aa5-ce1a4133b1ec)
 
-## Re-analyzing admixture
-
-Some time ago, we performed a pairwise kinship analysis between the bats. We detected some relatedness, but one of intriguing thinghs was the obtained coefficients for unrelatedness. Below:
-
-![Captura desde 2023-11-15 09-04-38](https://github.com/MarsicoFL/batPed/assets/55600771/0e5e9bc2-37f8-4909-acc9-5d90d8430211)
-
-We expect kinship = zero, with some degree of variance, but with zero and the mode. In this case we see a shift to lower values, this is also consistent with an highly admixed population.
-
