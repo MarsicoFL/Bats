@@ -1,0 +1,10 @@
+## Network_name: GC_IBD.csv_network1
+## Num_pedigrees: 0
+## Num_pedigrees_unflagged: 0
+## Num_samples: 36
+## Num_at_max_score: 0
+## Sample_IIDs: GSO-92,GSO-136,GSO-26,GSO-97,GSO-138,GSO-87,GSO-65,GSO-45,GSO-78,GSO-125,GSO-7,GSO-58,GSO-120,GSO-115,GSO-28,GSO-141,GSO-38,GSO-63,GSO-2,GSO-74,GSO-19,GSO-20,GSO-18,GSO-106,GSO-94,GSO-42,GSO-15,GSO-85,GSO-128,GSO-116,GSO-86,GSO-111,GSO-21,GSO-139,GSO-22,GSO-123
+## Error_message: > 3000 networks to resolve (Phase 2) at /home/franco/Escritorio/bats/Bats-main/PRIMUS_v1.9.0/lib/perl_modules/PRIMUS/reconstruct_pedigree_v7.pm line 1013.
+
+
+Pedigree_num	num_dummies	num_generations	rank	pedigree_composite_lnl	Age_flags

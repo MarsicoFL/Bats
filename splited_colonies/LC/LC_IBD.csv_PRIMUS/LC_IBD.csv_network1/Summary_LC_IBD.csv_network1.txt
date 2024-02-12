@@ -1,0 +1,9 @@
+## Network_name: LC_IBD.csv_network1
+## Num_pedigrees: 0
+## Num_pedigrees_unflagged: 0
+## Num_samples: 66
+## Num_at_max_score: 0
+## Sample_IIDs: GSO-44,GSO-32,GSO-137,GSO-101,GSO-114,GSO-124,GSO-35,GSO-60,GSO-72,GSO-93,GSO-13,GSO-143,GSO-34,GSO-75,GSO-17,GSO-130,GSO-118,GSO-23,GSO-71,GSO-69,GSO-51,GSO-39,GSO-64,GSO-70,GSO-40,GSO-88,GSO-83,GSO-121,GSO-79,GSO-1,GSO-104,GSO-103,GSO-68,GSO-10,GSO-90,GSO-84,GSO-99,GSO-131,GSO-105,GSO-129,GSO-102,GSO-29,GSO-81,GSO-24,GSO-109,GSO-33,GSO-48,GSO-140,GSO-80,GSO-133,GSO-37,GSO-14,GSO-134,GSO-112,GSO-53,GSO-73,GSO-25,GSO-126,GSO-89,GSO-110,GSO-6,GSO-91,GSO-66,GSO-95,GSO-43,GSO-142
+## Error_message: none
+
+Pedigree_num	num_dummies	num_generations	rank	pedigree_composite_lnl	Age_flags
