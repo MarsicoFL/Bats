@@ -128,3 +128,10 @@ We also check it with previously performed clustering (available on the bat drop
 
 ![clustering](https://github.com/MarsicoFL/batPed/assets/55600771/497eac72-ac6f-46dd-8aa5-ce1a4133b1ec)
 
+## Relationships
+From those more related, in LC colony, we plot IBD2 versus IBD0
+
+![KinshipLC](https://github.com/MarsicoFL/Bats/assets/55600771/1a8b10a9-a62f-4790-ac38-f9c532329563)
+
+Pair GSO-129 and GSO-84 results in the most parent-child likely pair. 
+
